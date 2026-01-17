@@ -1,0 +1,182 @@
+[
+    {
+      "title": "The Godfather",
+      "dateofrelease": "1972",
+      "category": ["Crime", "Drama"],
+      "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son."
+    },
+    {
+      "title": "The Dark Knight",
+      "dateofrelease": "2008",
+      "category": ["Action", "Crime", "Drama"],
+      "description": "Batman faces the Joker, a chaotic criminal mastermind who plunges Gotham into anarchy in this intense superhero thriller."
+    },
+    {
+      "title": "Inception",
+      "dateofrelease": "2010",
+      "category": ["Action", "Sci-Fi", "Thriller"],
+      "description": "A skilled thief who steals secrets from the subconscious during dreams is given the inverse task of planting an idea."
+    },
+    {
+      "title": "Parasite",
+      "dateofrelease": "2019",
+      "category": ["Drama", "Thriller"],
+      "description": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan."
+    },
+    {
+      "title": "Interstellar",
+      "dateofrelease": "2014",
+      "category": ["Adventure", "Drama", "Sci-Fi"],
+      "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival."
+    },
+    {
+      "title": "The Shawshank Redemption",
+      "dateofrelease": "1994",
+      "category": ["Drama"],
+      "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency."
+    },
+    {
+      "title": "Everything Everywhere All at Once",
+      "dateofrelease": "2022",
+      "category": ["Action", "Adventure", "Comedy"],
+      "description": "A middle-aged Chinese immigrant is swept up into an insane adventure in which she alone can save existence by exploring other universes."
+    },
+    {
+      "title": "Dune: Part Two",
+      "dateofrelease": "2024",
+      "category": ["Action", "Adventure", "Drama", "Sci-Fi"],
+      "description": "Paul Atreides unites with the Fremen while seeking revenge against those who destroyed his family in this epic sci-fi continuation."
+    },
+    {
+      "title": "Oppenheimer",
+      "dateofrelease": "2023",
+      "category": ["Biography", "Drama", "History"],
+      "description": "The story of American scientist J. Robert Oppenheimer and his role in the development of the atomic bomb."
+    },
+    {
+      "title": "Sinners",
+      "dateofrelease": "2025",
+      "category": ["Horror", "Drama"],
+      "description": "A haunting blues-infused vampire tale set in the Jim Crow-era South, blending horror with deep social commentary."
+    },
+        {
+          "title": "Pulp Fiction",
+          "dateofrelease": "1994",
+          "category": ["Crime", "Drama"],
+          "description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption."
+        },
+        {
+          "title": "Fight Club",
+          "dateofrelease": "1999",
+          "category": ["Drama"],
+          "description": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more."
+        },
+        {
+          "title": "The Matrix",
+          "dateofrelease": "1999",
+          "category": ["Action", "Sci-Fi"],
+          "description": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth—the life he knows is the elaborate deception of an evil cyber-intelligence."
+        },
+        {
+          "title": "Forrest Gump",
+          "dateofrelease": "1994",
+          "category": ["Drama", "Romance"],
+          "description": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an IQ of 75."
+        },
+        {
+          "title": "Goodfellas",
+          "dateofrelease": "1990",
+          "category": ["Biography", "Crime", "Drama"],
+          "description": "The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito."
+        },
+        {
+          "title": "Spirited Away",
+          "dateofrelease": "2001",
+          "category": ["Animation", "Adventure", "Family"],
+          "description": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts."
+        },
+        {
+          "title": "The Lord of the Rings: The Return of the King",
+          "dateofrelease": "2003",
+          "category": ["Action", "Adventure", "Drama", "Fantasy"],
+          "description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring."
+        },
+        {
+          "title": "Whiplash",
+          "dateofrelease": "2014",
+          "category": ["Drama", "Music"],
+          "description": "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential."
+        },
+        {
+          "title": "Mad Max: Fury Road",
+          "dateofrelease": "2015",
+          "category": ["Action", "Adventure", "Sci-Fi"],
+          "description": "In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search of her homeland with the aid of a group of female prisoners, a psychotic worshiper and a drifter named Max."
+        },
+        {
+          "title": "Get Out",
+          "dateofrelease": "2017",
+          "category": ["Horror", "Mystery", "Thriller"],
+          "description": "A young African-American visits his white girlfriend's parents for the weekend, where his simmering uneasiness about their reception of him eventually reaches a boiling point."
+        },
+        {
+          "title": "Joker",
+          "dateofrelease": "2019",
+          "category": ["Crime", "Drama", "Thriller"],
+          "description": "An aging comedian with a failed career descends into insanity and crime, turning Gotham City upside-down as the iconic villain the Joker."
+        },
+        {
+          "title": "Spider-Man: Into the Spider-Verse",
+          "dateofrelease": "2018",
+          "category": ["Animation", "Action", "Adventure"],
+          "description": "Teen Miles Morales becomes the Spider-Man of his universe and must join with five spider-powered individuals from other dimensions to stop a threat to all realities."
+        },
+        {
+          "title": "La La Land",
+          "dateofrelease": "2016",
+          "category": ["Comedy", "Drama", "Music", "Romance"],
+          "description": "While navigating their careers in Los Angeles, a pianist and an actress fall in love while attempting to reconcile their aspirations for the future."
+        },
+        {
+          "title": "The Grand Budapest Hotel",
+          "dateofrelease": "2014",
+          "category": ["Adventure", "Comedy", "Crime"],
+          "description": "A writer encounters the owner of an aging high-class hotel, who tells him of his early years serving as a lobby boy in the hotel's glorious years under an exceptional concierge."
+        },
+        {
+          "title": "Blade Runner 2049",
+          "dateofrelease": "2017",
+          "category": ["Action", "Drama", "Mystery", "Sci-Fi"],
+          "description": "Young Blade Runner K's discovery of a long-buried secret leads him to track down former Blade Runner Rick Deckard, who's been missing for thirty years."
+        },
+        {
+          "title": "Dune",
+          "dateofrelease": "2021",
+          "category": ["Action", "Adventure", "Drama", "Sci-Fi"],
+          "description": "A noble family becomes embroiled in a war for control over the galaxy's most valuable asset while its heir becomes troubled by visions of a dark future."
+        },
+        {
+          "title": "Poor Things",
+          "dateofrelease": "2023",
+          "category": ["Comedy", "Drama", "Romance", "Sci-Fi"],
+          "description": "The incredible tale and fantastical evolution of Bella Baxter, a young woman brought back to life by the brilliant and unorthodox scientist Dr. Godwin Baxter."
+        },
+        {
+          "title": "The Banshees of Inisherin",
+          "dateofrelease": "2022",
+          "category": ["Comedy", "Drama"],
+          "description": "Two lifelong friends find themselves at an impasse when one abruptly ends their relationship, with alarming consequences for both of them."
+        },
+        {
+          "title": "Barbie",
+          "dateofrelease": "2023",
+          "category": ["Adventure", "Comedy", "Fantasy"],
+          "description": "Barbie suffers a crisis that leads her to question her world and her existence, leading her on an adventure of self-discovery in the real world."
+        },
+        {
+          "title": "Anora",
+          "dateofrelease": "2024",
+          "category": ["Comedy", "Drama", "Romance"],
+          "description": "A young sex worker from Brooklyn gets her chance at a Cinderella story when she impulsively marries the impulsive son of a Russian oligarch."
+        }
+  ]
